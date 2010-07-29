@@ -154,7 +154,7 @@ static NSString *ImageName(NSDictionary *item) {
 #pragma mark Popover
 
 - (CGSize)contentSizeForViewInPopover {
-	return CGSizeMake(320, 500);
+    return CGSizeMake(320, 400);
 }
 
 @end
